@@ -1,9 +1,9 @@
 #include<stdio.h>
 
-void triangle(int );
+void triangle(int )
 void pole(int);
 
-int main()
+int Main()
 {
     int n;
 
